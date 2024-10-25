@@ -12,7 +12,7 @@ The Global Multichain Builder Competition.
 
 ## Wormhole
 
-Through the cross-chain token transfer technology provided by Wormhole, multiple payment methods are supported to randomize Suikemon cards.<br>In the current project, the card is just a simple object. In the future, you can consider making it into an NFT, and then use Wormhole to give the extracted NFT across the chain.
+Through the cross-chain token transfer technology provided by Wormhole, multiple payment methods are supported to randomize Suikemon cards in future.<br>In the current project, the card is just a simple object. In the future, you can consider making it into an NFT, and then use Wormhole to give the extracted NFT across the chain.
 
 ## Online(If it has not expired)
 
