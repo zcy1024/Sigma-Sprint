@@ -20,7 +20,7 @@ https://suikemon.walrus.site/
 
 or
 
-https://5naz3l5tfpwb34rb0ero6lr3flz85l2lvj6tkjdyumnt8ti0kt.walrus.site
+https://2w81ou3bz0rbjp1jqe0ohfgy4yekog5w34zhkqxivgar22odjf.walrus.site
 
 or
 
